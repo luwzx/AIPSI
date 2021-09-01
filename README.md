@@ -1,4 +1,4 @@
 # AIPSI
 Repositório para a aula 
 
-* [blbblb](projetos/LinkedList/src/linkedlist/Principal.java)
+	* [LinkedList](projetos/LinkedList/src/linkedlist/Principal.java)
